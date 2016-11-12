@@ -1,0 +1,26 @@
+cat,col,pch
+Environmental,"#00FFFFFF",24
+Industrial,"#0000FFFF",12
+Transport,"#0000FFFF",10
+Bushfire,"#FF0000FF",8
+#FF0000FF red
+#FFFF00FF yellow
+#FFFFFF00 ??
+#000000FF black
+#0000FFFF blue
+#00FFFFFF green
+Urban,"#FF0000FF",22
+Shipwreck,"#0000FFFF",25
+Cyclone,"#FF0000FF",23
+Hail,"#0000FFFF",11
+Severe,"#FF0000FF",7
+Flood,"#0000FFFF",21
+Chemical,"#FF0000FF",15
+Complex,"#FF0000FF",21
+Epidemic,"#FFFF00FF",17
+Earthquake,"#FFFF00FF",14
+Criminal,"#FFFF00FF",13
+Landslide,"#FFFF00FF",14
+Tsunami,"#0000FFFF",21
+Tornado,"#FFFF00FF",5
+Envionmental,"#FFFF00FF",6
